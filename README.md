@@ -11,7 +11,7 @@
 
 - 📝 I regularly write articles on [she0305.github.io](she0305.github.io)
 
-- 💬 Ask me about **Vue, TypeScript**
+- 💬 Ask me about **Vue, TypeScript, GraphQL**
 
 - 📫 How to reach me **amyskim0305@gmail.com**
 
