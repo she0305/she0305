@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Amy Kim</h1>
+<h1 align="center">Hi 👋, I'm Amy</h1>
 <h3 align="center">A passionate bean learning to make this world better!</h3>
 
 - 🔭 I’m currently working on **Blog w/ Next.js**
